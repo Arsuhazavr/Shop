@@ -19,7 +19,7 @@ a {
 }
 
 header {
-    background-image: url(Images/header_back.jpg);
+    background-image: url(images/header_back.jpg);
     background-size: cover;
     box-shadow: inset 0 0 0 1000px #00000011;
     color: #fff;
